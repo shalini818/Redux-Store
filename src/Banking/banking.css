@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(194, 140, 158);
+}
+.head {
+  text-align: center;
+  background-color: rgb(216, 108, 144);
+  position: relative;
+  margin-top: 20px;
+  font-size: 55px;
+  height: 200px;
+  font-family: 'Sofia', sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+#name {
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  margin-left: 50px;
+  font-family: 'Sofia', sans-serif;
+  text-shadow: 3px 3px 3px #ababab;
+}
+.cent {
+  text-align: center;
+}
+.dev {
+  text-align: center;
+}
+#inpu {
+  font-family: 'Sofia', sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;
+  position: relative;
+  padding: 20px;
+  width: 200px;
+  border-radius: 15px;
+}
+.btn {
+  font-family: 'Sofia', sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 3px 3px #ababab;
+  position: relative;
+  margin: 50px;
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  color: darkgoldenrod;
+}
